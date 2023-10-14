@@ -1,0 +1,135 @@
+.b1 {
+  color: black;
+  text-align: center;
+  /* font-size: 30px; */
+  text-decoration: underline;
+  /* background-image: radial-gradient(black, yellow, green); */
+  /* background-image: linear-gradient(black, yellow, red, green); */
+  /* background-image: linear-gradient(red, green, yellow); */
+  background-image: linear-gradient(to right, red, green, yellow);
+}
+
+.container {
+  justify-content: center;
+  height: 70px;
+  width: 800px;
+  background-color: rgb(107, 107, 209);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 5px solid red;
+  border-radius: 15px;
+}
+
+ul {
+  display: inline-block;
+  text-align: center;
+}
+
+.container1 {
+  border: 2px solid red;
+  border-radius: 15px;
+  background-color: rgb(9, 221, 150);
+  text-align: center;
+}
+
+.container2 {
+  display: flex;
+  justify-content: space-around;
+  line-height: 15px;
+  font-weight: 600;
+}
+
+.box {
+  width: 30%;
+  background-color: rgb(58, 255, 255);
+  border: 2px solid green;
+  border-radius: 7px;
+}
+
+.b2 {
+  height: 25px;
+  color: black;
+  text-align: center;
+  /* font-size: 30px; */
+  text-decoration: underline solid red;
+  background-image: linear-gradient(to right, red, yellow, red);
+}
+
+.container3 {
+  display: flex;
+  border: 3px solid green;
+  /* background-image: linear-gradient(green, blue); */
+  background-image: radial-gradient(blue, green);
+  align-items: center;
+  text-align: center;
+}
+
+.box2 {
+  height: 100px;
+  width: 210px;
+  margin: 80px 80px 80px 30px;
+  font-weight: 600;
+  line-height: 25px;
+  color: red;
+  background-color: yellow;
+  border: 2px solid red;
+  text-decoration: underline;
+  border-radius: 7px;
+}
+
+.box3 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+  background-color: red;
+
+}
+
+.container4 {
+  border: 1px solid black;
+  width: 100%;
+  color: white;
+  border-spacing: 0px 0px 30px;
+
+
+}
+
+.box4 {
+  background-color: rgb(139, 6, 6);
+  padding-bottom: 10px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.box5 {
+  background-color: rgb(86, 239, 86);
+  font-size: 30px;
+  text-align: center;
+}
+
+.box6 {
+  background-color: rgb(57, 57, 250);
+  text-align: center;
+}
+
+.box7 {
+  background-color: blue;
+}
+
+.box8 {
+  background-color: rgb(7, 7, 7);
+  line-height: 10px;
+}
+
+.box9 {
+  background-color: rgb(201, 139, 7);
+}
+
+.box10 {
+  background-color: rgb(35, 201, 204);
+  color: black;
+  font-weight: 700;
+  text-align: center;
+}
